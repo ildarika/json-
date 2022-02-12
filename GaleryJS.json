@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "name": "Фернан Магеллан",
+        "date": "1480-1521 гг.",
+        "poster_path": "https://avatars.mds.yandex.net/i?id=e5be50885c30287a72b74a3c144f5c36-5869069-images-thumbs&n=13"
+    },
+    {
+        "id": 2,
+        "name": "Васко да Гама",
+        "date": "1460-1524 гг.",
+        "poster_path": "https://ic.pics.livejournal.com/cand_orel/85803014/4066758/4066758_original.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Эратосфен",
+        "date": "276-194 гг. до н. э.",
+        "poster_path": "https://avatars.mds.yandex.net/i?id=c2a8e18b8d0a88c70269d40ce1209b6e-4937686-images-thumbs&n=13"
+    },
+    {
+        "id": 4,
+        "name": "Христофор Колумб",
+        "date": "1451-1506 гг.",
+        "poster_path": "https://avatars.mds.yandex.net/i?id=67fe84d1f866f9426e6a4e4b84456cbf-5232459-images-thumbs&n=13"
+    },
+    {
+        "id": 5,
+        "name": "Владимир Владимирович Докучаев",
+        "date": "1846-1903 гг.",
+        "poster_path": "https://avatars.mds.yandex.net/i?id=7394535a47bc0ea27f93a0d82ed92776-5235270-images-thumbs&n=13"
+    },
+    {
+        "id": 6,
+        "name": "Фрэнсис Дрейк",
+        "date": "1540-1596 гг.",
+        "poster_path": "https://avatars.mds.yandex.net/i?id=18ee3d6b5c7e6d1293cd7aa2235aecc4-5660190-images-thumbs&n=13"
+    },
+    {
+        "id": 7,
+        "name": "Афанасий Никитин",
+        "date": "?-1475 гг.",
+        "poster_path": "https://avatars.mds.yandex.net/i?id=2a00000179e6ec3fa45e1c70b7b4a0929ef7-4034027-images-thumbs&n=13"
+    },
+    {
+        "id": 8,
+        "name": "Руаль Амундсен",
+        "date": "1872-1928 гг.",
+        "poster_path": "https://avatars.mds.yandex.net/i?id=ddf8aecabd329dd79512790a7778d372-5655706-images-thumbs&n=13"
+    },
+    {
+        "id": 9,
+        "name": "Америго Веспуччи",
+        "date": "1454-1512 гг.",
+        "poster_path": "https://avatars.mds.yandex.net/i?id=3bdb2006341666091d1c136a562417a1-5386523-images-thumbs&n=13"
+    },
+    {
+        "id": 10,
+        "name": "Давид Ливингстон",
+        "date": "1813-1873 гг.",
+        "poster_path": "https://avatars.mds.yandex.net/i?id=10ea9d318980ef03d68f704ec6b04c2b-3751999-images-thumbs&n=13"
+    }
+]
